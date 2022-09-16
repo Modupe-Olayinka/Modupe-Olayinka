@@ -4,6 +4,7 @@
 - 💞️ I’m currently learning more about machine learning and product management
 - 📫 How to reach me:
 - email - modupe.olayinka1@louisiana.edu
+- LinkedIn - https://www.linkedin.com/in/modupe-olayinka
 
 <!---
 Modupe-Olayinka/Modupe-Olayinka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
