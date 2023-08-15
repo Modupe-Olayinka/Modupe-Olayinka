@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Modupe-Olayinka
 - 👀 I’m interested in using data to answer questions and make decision
-- 🌱 I’m currently a graduate student in informatics at University of Louisiana at Lafayette
+- 🌱 
 - 💞️ I’m currently learning more about machine learning and product management
 - 📫 How to reach me:
 - email - oriloyedupe@yahoo.com
